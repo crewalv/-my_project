@@ -1,1 +1,2 @@
-# -my_project
+# My Project
+Учебный проект для изучения Git.
